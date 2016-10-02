@@ -1,0 +1,19 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sako-0384/Screeps.git"
+  },
+  "author": "nonsako",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Sako-0384/Screeps/issues"
+  },
+  "homepage": "https://github.com/Sako-0384/Screeps#readme"
+}
